@@ -1,1 +1,3 @@
 Zmiana w pliku.
+Inna wersja tego plik nadpisze poprzednia.
+Ala nie ma kota.
